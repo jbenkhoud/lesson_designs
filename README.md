@@ -1,5 +1,3 @@
-I've designed several interactive lessons and engaging projects to ensure long-lasting learning. I've used some of these many times and some only once or twice. Feel free to use any of them however you'd like!
-
 # Greek Government Simulation
 This lesson introduces students to the nuances of four types of government structure and their effects on citizens living within them. 
 
