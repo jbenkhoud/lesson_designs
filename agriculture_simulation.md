@@ -86,7 +86,7 @@ Students will practice communicating effectively and competing in a constructive
 3. A sign with the requirements for winter and total points per round posted visibly
 4. A key showing which kinds of tokens you'll be using for which products
 5. One per student of the following:
-    * One White board with “totals” area, “harvest chart” and “planting chart”
+    * One white board with “totals” area, “harvest chart” and “planting chart”
     * Marker
     * Tissue or eraser
     * Cost chart (printable)
