@@ -5,7 +5,7 @@
 This project familiarizes students with the complexities and purpose of governments. Students work to design their own governments by establishing goals, researching, engineering, reflecting, iterating, and sharing their work. The process is largely independent, but guided frequently by teacher comments and discussion. The emphasis of this project is on the process, not the results, so please don't expect perfect governments! If students could make those, they should be running for office, not taking classes!
 
 ## Teacher Notes
-The project will require students to backwards engineer a government, forcing them to confront the challenges of distributed power structures and competing incentives. The process is designed to make students internalize the true complexity of governance, and to think about the practical reality of the outcomes of government decisions. Most students who complete the project say that the most important thing they learned was that governments are real and messy, and that they're frighteningly vulnerable to problems and latency. 
+The project will require students to backwards engineer a government, forcing them to confront the challenges of distributed power structures and competing incentives. The process is designed to make students internalize the true complexity of governance, and to think about the practical reality of the outcomes of government decisions. Most students who complete the project say that the most important thing they learned was that governments are real and messy, and that they're frighteningly vulnerable to cultural resourcing issues and latency. 
 
 In addition, most students engage much more deeply with current events while working on this project as they start to see the problems they're trying to troubleshoot enacted by instututions like Congress or the Supreme Court. 
 
@@ -13,7 +13,7 @@ In addition, most students engage much more deeply with current events while wor
 
 Students will be able to explain the intricacies of governance and offer useful and constructive ideas for how governments could be improved.
 
-Students will be familiar with the challenges of governance and will learn to recognize all governmental decisions as interdependent and widely impactful. 
+Students will be familiar with the challenges of governance and will learn to recognize governmental decisions as interdependent and widely impactful. 
 
 Students will learn to plan and complete projects over extended periods of time effectively, including how to revise and iterate on an idea once you have it.
 
@@ -21,7 +21,7 @@ Students will practice articulating their ideas effectively.
 
 ## Step-by-Step Instructions
 0. Before "beginning", make sure the student has accees to the project description/instructions (found under printable materials).
-1. Begin by discussing with each student what the purpose of government is. Ask them to compile a list of everything you feel it is important that a government accomplish in order to be successful. 
+1. Begin by discussing with each student what the purpose of government is, inclduing how to evaluate whether or not the government is the most useful entity to accomplish various tasks, comparing against solutions that rely on other mechanisms. Ask them to compile a list of everything they feel it is important that a government accomplish in order to be successful. 
 2. Once you have the list, ask the student to brainstorm as many ways as possible to accomplish each item in the list (e.g. "protect citizens from muderers: police, courts, prison, guns for every citizen, constant surveillance"). The purpose of this is not to put only good ideas down (constant surveillance is really not a good idea!), but rahter to force them to think about original and non-standard approaches to obvious problems. 
 3. Discuss different ways of organizing a government with the student, beginning with asking them "who should be making decisions and controlling things?". Have a discussion about the merits and risks of locally, regionally, nationally, and individually controlled structures and try to get them to discuss most forms of government that they've heard of. 
 4. Have the student conduct reserach on different kinds of government structures, providing them with some vocab to investigate if necessary (e.g. monarchy, parliamentary system, republic, fascism, socialism, etc.). Have them come back with an understanding and list of pros and cons for each format. 
