@@ -1,14 +1,14 @@
 # Agricultural Revolution Simulation
 
 ## Overview
-This lesson introduces students to the social outcomes of the Agricultural Revolution. It is designed to follow some introduction to what the Agricultural Revolution was, but there's no need to explain the social outcomes in advance (in fact, it's better if you don't!). In the simulation, students will act as farmers and work competitively to maximize their personal outcomes while ensuring the entire group surivives the winter. The game is played in rounds and is followed by a reflection. I also follow that up with a written assessment, but that's up to you. 
+This lesson introduces students to the social outcomes of the Agricultural Revolution. It is designed to follow some introduction to what the Agricultural Revolution was, but there's no need to explain the social outcomes in advance (in fact, it's better if you don't!). In the simulation, students will act as farmers and work competitively to maximize their personal outcomes while ensuring the entire group survives the winter. The game is played in rounds and is followed by a reflection. I also follow that up with a written assessment, but that's up to you. 
 
-Note: This lesson can be done with varying numbers of students, but is deisgned for groups of 3, 4, or 5. If you plan to use a different number, you'll need to edit the templates.
+Note: This lesson can be done with varying numbers of students, but is designed for groups of 3, 4, or 5. If you plan to use a different number, you'll need to edit the templates.
 
 ## Teacher Notes
 The simulation will require a group of students to communicate and collaborate to plant, harvest, and reap before "winter" in an agricultural society while trying to ensure everyone survives and maximizing personal points. Each student has a different ability to plant the various "crops" (so some students are able to plant corn for lower costs than cows etc.). During the planting phase, students will decide what to produce and then "crops" are laid out before the harvest. During harvest time, all students go gather resources (there are no rules about who can take what) and return to their seats. Then, each student records what they gained and makes sure they survived the winter (have enough of each crop per the "winter requirements" sheet). If all students survived, their points are tallied. If anyone "dies", no points are awarded to any player that round. 
 
-This basic model gets students to realize the necessities and difficulties of early coordination attempts when a surplus is introuced, as well as the competing incentives or group and individual survival. Beyond that, the "free-for-all" nature of the harvest period demonstrates how easy it is for an individual to take control and wind up in a far better position as a result. Later, once the second phase of the simulation is introduced and students are staggered according to their current points, the competetive edge gained by having early control of the resources is highlighted, demonstrating how early leaders were able to consolidate and enforce their power with little opposition by engineering control of the agricultural resources. 
+This basic model gets students to realize the necessities and difficulties of early coordination attempts when a surplus is introduced, as well as the competing incentives or group and individual survival. Beyond that, the "free-for-all" nature of the harvest period demonstrates how easy it is for an individual to take control and wind up in a far better position as a result. Later, once the second phase of the simulation is introduced and students are staggered according to their current points, the competitive edge gained by having early control of the resources is highlighted, demonstrating how early leaders were able to consolidate and enforce their power with little opposition by engineering control of the agricultural resources. 
 
 ## Relevant Outcomes
 Students will be able to explain how the conditions of the Agricultural Revolution led to the social hierarchy structure which dominated history for several thousand years afterwards.
@@ -36,7 +36,7 @@ Students will practice communicating effectively and competing in a constructive
     * No biting, pushing, shoving, running!
     * No extra time
     * NO TALKING except when allowed (important for this game specifically, not because I'm a stickler!)
-2. Establish a procedure (or reference one you already use) for abruptly stopping an activity when time's up. (I just have them riase their hand to the sound of a timer and stop talking immediately).
+2. Establish a procedure (or reference one you already use) for abruptly stopping an activity when time's up. (I just have them raise their hand to the sound of a timer and stop talking immediately).
 3. Practice the procedure if necessary.
 4. Explain how the game works (it's complex, so go slowly and check for understanding):
     * Each student is going to be a farmer. 
@@ -73,12 +73,12 @@ Students will practice communicating effectively and competing in a constructive
  5. Ask if anyone has questions and review any areas of confusion.
  6. Play the game as outlined above in rounds 2-4 times until students understand and begin doing something consistent.
    *Essentially, you should expect them to specialize during planting given the different costs of production for each student, and most groups also establish a procedure for harvest in which everyone shares. However, given that no one knows how many rounds there will be, people usually also begin stealing excess crops. Sometimes, a student will be advanced enough to realize that rushing and taking the entire haul and then dividing as a "benevolent dictator", which is actually pretty ideal for the proving the point.*
-7. Once students have established a norm, change rules to model the gains that can be acheived by controlling your own products by giving bonus points if you have the most of whatever you produced most that round.
+7. Once students have established a norm, change rules to model the gains that can be achieved by controlling your own products by giving bonus points if you have the most of whatever you produced most that round.
 8. Play one round in which you warn that them that, beginning the next round, your distance to the harvest will be dependent on the points you have. 
   *This usually leads to an aggressive, rule-breaking round, so be prepared!*
 9. Finally, switch to playing rounds in which the number of points you have determine your starting distance from the harvest table to reflect the power that comes from having already acquired resources. 
   *Here you'll see how whichever student started in the lead begins to widen the gap and all other students fall desperately behind, modeling the early Agricultural Revolution and the way in which consolidated resource control led to huge amounts of power*
-10. Once all rounds are complete and you've pretty much established monarchichal power, stop the game and tally the points.
+10. Once all rounds are complete and you've pretty much established monarchical power, stop the game and tally the points.
 11. As a class, discuss what strategies were affected and how you wound up with the power structure you did. If necessary, guide the discussion. The main takeaway should be that early agricultural leaders rose to power by either benevolently or malevolently controlling and distributing the food source and that once that control was established it was very hard to undermine. Even with everyone else working together to bring that individual down, the fact that they had so much control over resources made that nearly impossible.
 12. Discuss with the class what other things could have further promoted that power structure (militaries designed to "protect the food" that are loyal only to a single ruler and kept by getting more resources; religious authorities which taught people to defer to authority rather than investigate phenomena directly, merchants and specialist non-farmers who were incentivized to make sure someone was controlling the food supply since they were not direct producers, etc.)
 13. At your discretion, assign a follow-up assignment asking students to somehow demonstrate their understanding (I used a short essay).
