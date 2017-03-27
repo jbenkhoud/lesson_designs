@@ -66,6 +66,6 @@ I'm including the process from that document here, as that is essentially the st
 16. Turn in EVERYTHING and rejoice because the class is over!! Congratulations!!
 
 ## Things to Gather
-* Project Description (see downloadable materials)
+1. Project Description (see downloadable materials)
 ## Downloadable Materials and Handouts
 [Project Description](make_a_plan_project_description.pdf)
