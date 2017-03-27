@@ -5,6 +5,11 @@ This lesson introduces students to the social outcomes of the Agricultural Revol
 
 Note: This lesson can be done with varying numbers of students, but is deisgned for groups of 3, 4, or 5. If you plan to use a different number, you'll need to edit the templates.
 
+## Teacher Notes
+The simulation will basically make it so that a group of students have to communicate and collaborate to plant, harvest, and reap before "winter" in an agricultural society while trying to ensure everyone survives and maximize personal points. Each student has a different ability to plant the various "crops" (so some students are able to plant corn for lower costs than cows etc.). During the planting phase, students will decide what to produce and then "crops" are laid out before the harvest. During harvest time, all students go gather resources (there are no rules about who can take what) and return to their seats. Then, each student records what they got and makes sure they survived the winter (have enough of each crop per the "winter requirements" sheet). If all students survived, their points are tallied. If anyone "dies", no points are awarded to any player that round. 
+
+This basic model gets students to realize the necessities and difficulties of early coordination attempts when a surplus is introuced, as well as the competing incentives or group and individual survival. Beyond that, the "free-for-all" nature of the harvest period demonstrates how easy it is for an individual to take control and wind up in a far better position as a result. Later, once the second phase of the simulation is introduced and students are staggered according to their current points, the competetive edge gained by having early control of the resources is highlighted, demonstrating how early leaders were able to consolidate and enforce their power with little opposition by engineering control of the agricultural resources. 
+
 ## Relevant Outcomes
 Students will be able to explain how the conditions of the Agricultural Revolution led to the social hierarchy structure which dominated history for several thousand years afterwards.
 
@@ -45,7 +50,7 @@ Students will practice communicating effectively and competing in a constructive
         * Write down what you’ve chosen to plant on your whiteboard in the correct column
       * Reaping:
         * Students show others what they planted silently (reveal whiteboards)
-        * Think about your plan for the harvest while teacher sets up harvest
+        * Think about your plan for the harvest while teacher sets up harvest *Put the appropriate number of "crops" in each category in the harvest area*
       * Harvest:
         * 30 seconds to acquire resources from the pool (set up by teacher)
         * You may talk
