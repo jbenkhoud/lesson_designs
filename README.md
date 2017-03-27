@@ -1,5 +1,5 @@
 # Simulations
-## [Greek Government Simulation](greek_government_simulation.md)
+## Greek Government Simulation
 This lesson introduces students to the nuances of four types of government structure and their effects on citizens living within them. 
 
 I originally used this for sixth-grade history, but it would work well in any class which deals with governmental structures (with some adjustments). 
