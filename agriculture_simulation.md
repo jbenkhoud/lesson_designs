@@ -92,3 +92,4 @@ Students will practice communicating effectively and competing in a constructive
     * Cost chart (printable)
 
 ## Downloadable Materials and Handouts
+[Find all printable materials here](agricultural_simulation_materials.pdf)
