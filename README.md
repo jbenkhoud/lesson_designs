@@ -1,10 +1,10 @@
 # Simulations
-## Greek Government Simulation
+## [Greek Government Simulation](greek_government_simulation.md)
 This lesson introduces students to the nuances of four types of government structure and their effects on citizens living within them. 
 
 I originally used this for sixth-grade history, but it would work well in any class which deals with governmental structures (with some adjustments). 
 
-## Agricultural Revolution Simulation
+## [Agricultural Revolution Simulation](agriculture_simulation.md)
 This lesson is designed to help students learn how social hierarchy was developed and enforced as a result of the Agricultural Revolution. Students participate in a simple "farming" game in which they have to ensure all students survive the winter while maximizing personal gain. 
 
 I intended this lesson for use in a tenth-grade World History course, but it would fit well in any class where the Agricultural Revolution was relevant.
@@ -15,7 +15,7 @@ The point of this lesson is to make students understand the complexity of global
 I've used this in tenth-grade World History, but it could be adapted to other classes with some effort. I wouldn't recommend it for elementary-age students (because of content and organizational constraints).
 
 # Projects
-## Constitution Project
+## [Constitution Project](constitution_project.md)
 
 The purpose of this project is to help students gain a better understanding of the role and complexity of governance by forcing them to attempt to structure a government themselves. Rather than focusing on format or reserach upfront, however, this project has students begin by formulating a list of everything they feel governments should be responsible for and working backwards to engineer a structure that could accomplish those goals. Note that the emphasis here is not on the final product (no students will have anything close to perfect governments), but rather on the process of investigation and analysis students employ.
 
@@ -39,7 +39,7 @@ This project requires students to propose a "new deal" for their local economy t
 
 I use this project for eleventh-grade U.S. History, but any time the New Deal comes up would work, too.
 
-## Make a Plan Project
+## [Make a Plan Project](make_a_plan_project.md)
 
 This project's purpose is to introduce students to a more effective and detailed way to plan large-scale implementation. Students choose a product or idea and have to go from an original description to a viable plan for success, evaluating precedent, costs, and probability along the way. It's complicated and requires a lot of ad-hoc guidance, but it's pretty effective at helping students become familiar with end-to-end planning.
 
